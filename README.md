@@ -1,13 +1,12 @@
-# Task 2: Unemployment Analysis with Python
-
-## 📌 Objective
+**# Task 2: Unemployment Analysis with Python**
+**## Objective**
 The objective of this project is to analyze unemployment rate data in India using Python.
 The analysis focuses on understanding unemployment trends, the impact of Covid-19,
 and differences across regions and areas (Rural vs Urban).
 
 ---
 
-## 📂 Datasets Used
+**## Datasets Used**
 1. *Unemployment_Rate_upto_11_2020.csv*  
    - Contains unemployment data during the Covid-19 period in 2020.
 
@@ -16,7 +15,7 @@ and differences across regions and areas (Rural vs Urban).
 
 ---
 
-## 🛠️ Tools & Technologies
+**## Tools & Technologies**
 - Python  
 - Pandas  
 - Matplotlib  
@@ -25,7 +24,7 @@ and differences across regions and areas (Rural vs Urban).
 
 ---
 
-## 🔍 Steps Performed
+**## Steps Performed**
 - Imported and explored the datasets  
 - Cleaned and preprocessed the data  
 - Converted date columns into datetime format  
@@ -36,7 +35,7 @@ and differences across regions and areas (Rural vs Urban).
 
 ---
 
-## 📊 Key Visualizations
+**## Key Visualizations**
 - Unemployment rate trend over time  
 - Covid-19 impact on unemployment (2020)  
 - Rural vs Urban unemployment comparison  
@@ -44,7 +43,7 @@ and differences across regions and areas (Rural vs Urban).
 
 ---
 
-## 💡 Key Insights
+**## Key Insights**
 - Unemployment increased sharply after March 2020 due to Covid-19 lockdowns  
 - Urban unemployment was higher than rural unemployment  
 - Significant variation in unemployment rates across states  
@@ -52,7 +51,7 @@ and differences across regions and areas (Rural vs Urban).
 
 ---
 
-## ✅ Conclusion
+**## Conclusion**
 This project demonstrates how data analysis and visualization techniques
 can be used to study economic indicators such as unemployment.
 The insights obtained can help policymakers and organizations
@@ -60,22 +59,21 @@ understand employment trends and plan effective strategies.
 
 ---
 
-## ▶️ How to Run the Project
+**## How to Run the Project**
 1. Install required libraries:
    ```bash
    python -m pip install pandas matplotlib seaborn
 Run the Python file:
-Copy code
-Bash
 python task2_unemployment.py
-📌 Project Structure
-Copy code
 
-Task2-Unemployment-Analysis
-│
-├── task2_unemployment.py
-├── Unemployment_Rate_upto_11_2020.csv
+
+**👤 Author**
+Name: Shamal Saste
+Internship Role: Data Science Intern
+Organization: CodeAlpha
+
 ├── Unemployment in India.csv
 └── README.md
 👤 Author
+
 Shamal Saste
