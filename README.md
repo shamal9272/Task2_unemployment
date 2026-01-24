@@ -2,7 +2,7 @@
 **## Objective**
 The objective of this project is to analyze unemployment rate data in India using Python.
 The analysis focuses on understanding unemployment trends, the impact of Covid-19,
-and differences across regions and areas (Rural vs Urban).
+differences across regions and areas (Rural vs Urban) and the difference of statewise unemployment.
 
 ---
 
@@ -72,8 +72,5 @@ Name: Shamal Saste
 Internship Role: Data Science Intern
 Organization: CodeAlpha
 
-├── Unemployment in India.csv
-└── README.md
-👤 Author
 
-Shamal Saste
+
