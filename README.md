@@ -51,6 +51,25 @@ differences across regions and areas (Rural vs Urban) and the difference of stat
 
 ---
 
+**##  Output Visualizations**
+
+### Unemployment rate in 2020
+![Unemployment rate](outputs/unemployment_rate(2020).png)
+
+### Covid-19 Impact on Unemployment
+![Covid Impact](outputs/covid_impact.png)
+
+### Rural vs Urban Unemployment
+![Rural vs Urban](outputs/rural_vs_urban.png)
+
+### State-wise Unemployment Rate
+![State-wise](outputs/statewise_unemployment.png)
+
+### Unemployment rate in india(2020)
+![Unemployment rate](outputs/unemployment_rate(overall).png)
+
+---
+
 **## Conclusion**
 This project demonstrates how data analysis and visualization techniques
 can be used to study economic indicators such as unemployment.
@@ -71,6 +90,7 @@ python task2_unemployment.py
 Name: Shamal Saste
 Internship Role: Data Science Intern
 Organization: CodeAlpha
+
 
 
 
